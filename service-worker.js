@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/https://github.com/sadanali/can-i-walk-the-dog/precache-manifest.9a93cfd8547ae169461b8cbd7d4e29f2.js"
+  "/https://github.com/sadanali/CanIWalkTheDog/precache-manifest.6b8af866b971b02ce33bef93ba2f2a3e.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/https://github.com/sadanali/can-i-walk-the-dog/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/https://github.com/sadanali/CanIWalkTheDog/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
