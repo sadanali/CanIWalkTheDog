@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/https://github.com/sadanali/CanIWalkTheDog/static/css/main.5f361e03.chunk.css",
-    "main.js": "/https://github.com/sadanali/CanIWalkTheDog/static/js/main.af0c86f5.chunk.js",
-    "main.js.map": "/https://github.com/sadanali/CanIWalkTheDog/static/js/main.af0c86f5.chunk.js.map",
-    "runtime-main.js": "/https://github.com/sadanali/CanIWalkTheDog/static/js/runtime-main.d12de2e5.js",
-    "runtime-main.js.map": "/https://github.com/sadanali/CanIWalkTheDog/static/js/runtime-main.d12de2e5.js.map",
-    "static/js/2.a562a7f5.chunk.js": "/https://github.com/sadanali/CanIWalkTheDog/static/js/2.a562a7f5.chunk.js",
-    "static/js/2.a562a7f5.chunk.js.map": "/https://github.com/sadanali/CanIWalkTheDog/static/js/2.a562a7f5.chunk.js.map",
-    "index.html": "/https://github.com/sadanali/CanIWalkTheDog/index.html",
-    "precache-manifest.6b8af866b971b02ce33bef93ba2f2a3e.js": "/https://github.com/sadanali/CanIWalkTheDog/precache-manifest.6b8af866b971b02ce33bef93ba2f2a3e.js",
-    "service-worker.js": "/https://github.com/sadanali/CanIWalkTheDog/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/https://github.com/sadanali/CanIWalkTheDog/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a562a7f5.chunk.js.LICENSE.txt": "/https://github.com/sadanali/CanIWalkTheDog/static/js/2.a562a7f5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/https://github.com/sadanali/CanIWalkTheDog/static/media/logo.5d5d9eef.svg"
+    "main.css": "/CanIWalkTheDog/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CanIWalkTheDog/static/js/main.69b6feaf.chunk.js",
+    "main.js.map": "/CanIWalkTheDog/static/js/main.69b6feaf.chunk.js.map",
+    "runtime-main.js": "/CanIWalkTheDog/static/js/runtime-main.57860351.js",
+    "runtime-main.js.map": "/CanIWalkTheDog/static/js/runtime-main.57860351.js.map",
+    "static/js/2.a562a7f5.chunk.js": "/CanIWalkTheDog/static/js/2.a562a7f5.chunk.js",
+    "static/js/2.a562a7f5.chunk.js.map": "/CanIWalkTheDog/static/js/2.a562a7f5.chunk.js.map",
+    "index.html": "/CanIWalkTheDog/index.html",
+    "precache-manifest.2a47195a2546e81fea2af9a74127f3fc.js": "/CanIWalkTheDog/precache-manifest.2a47195a2546e81fea2af9a74127f3fc.js",
+    "service-worker.js": "/CanIWalkTheDog/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/CanIWalkTheDog/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a562a7f5.chunk.js.LICENSE.txt": "/CanIWalkTheDog/static/js/2.a562a7f5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CanIWalkTheDog/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d12de2e5.js",
+    "static/js/runtime-main.57860351.js",
     "static/js/2.a562a7f5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.af0c86f5.chunk.js"
+    "static/js/main.69b6feaf.chunk.js"
   ]
 }
