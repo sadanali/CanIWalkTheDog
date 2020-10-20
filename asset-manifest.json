@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https://github.com/sadanali/can-i-walk-the-dog/static/css/main.5f361e03.chunk.css",
+    "main.js": "/https://github.com/sadanali/can-i-walk-the-dog/static/js/main.7128b1d8.chunk.js",
+    "main.js.map": "/https://github.com/sadanali/can-i-walk-the-dog/static/js/main.7128b1d8.chunk.js.map",
+    "runtime-main.js": "/https://github.com/sadanali/can-i-walk-the-dog/static/js/runtime-main.dc32d7de.js",
+    "runtime-main.js.map": "/https://github.com/sadanali/can-i-walk-the-dog/static/js/runtime-main.dc32d7de.js.map",
+    "static/js/2.a562a7f5.chunk.js": "/https://github.com/sadanali/can-i-walk-the-dog/static/js/2.a562a7f5.chunk.js",
+    "static/js/2.a562a7f5.chunk.js.map": "/https://github.com/sadanali/can-i-walk-the-dog/static/js/2.a562a7f5.chunk.js.map",
+    "index.html": "/https://github.com/sadanali/can-i-walk-the-dog/index.html",
+    "precache-manifest.9a93cfd8547ae169461b8cbd7d4e29f2.js": "/https://github.com/sadanali/can-i-walk-the-dog/precache-manifest.9a93cfd8547ae169461b8cbd7d4e29f2.js",
+    "service-worker.js": "/https://github.com/sadanali/can-i-walk-the-dog/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/https://github.com/sadanali/can-i-walk-the-dog/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a562a7f5.chunk.js.LICENSE.txt": "/https://github.com/sadanali/can-i-walk-the-dog/static/js/2.a562a7f5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/https://github.com/sadanali/can-i-walk-the-dog/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc32d7de.js",
+    "static/js/2.a562a7f5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7128b1d8.chunk.js"
+  ]
+}
