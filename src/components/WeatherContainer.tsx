@@ -1,8 +1,10 @@
 import React from 'react';
+import { fetchWeatherFromApi } from './../api/weather'
 
 class WeatherContainer extends React.Component {
-    getWeather = () => {
-        alert('Get Weather!')
+    async getWeather() {
+        let data = await fetchWeatherFromApi('48842');
+        console.log( data );
     }
 
     render() 
